@@ -14,6 +14,8 @@
 - **[$docker run -d](https://docs.docker.com/engine/reference/run/)**  : (--detach) Run container in background and print container ID 
 - **[$docker run -p](https://docs.docker.com/engine/reference/run/)**  : (--publish) Publish a container's port(s) to the host 
 - **[$docker ps](https://docs.docker.com/engine/reference/commandline/ps/)**  : List containers
+- **[$docker ps -a](https://docs.docker.com/engine/reference/commandline/ps/)**  :(--all) Show both running and stopped containers
+- **[$docker ps -s](https://docs.docker.com/engine/reference/commandline/ps/)**  :(--size) Show disk usage by container
 - **[$docker ]()**  : Docker
 - **[$docker ]()**  : Docker
 - **[$docker ]()**  : Docker
