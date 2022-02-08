@@ -16,8 +16,7 @@
 - **[$docker ps](https://docs.docker.com/engine/reference/commandline/ps/)**  : List all running containers
 - **[$docker ps -a](https://docs.docker.com/engine/reference/commandline/ps/)**  :(--all) Show both running and stopped containers
 - **[$docker ps -s](https://docs.docker.com/engine/reference/commandline/ps/)**  :(--size) Show disk usage by container
-- **[$docker ]()**  : Docker
-- **[$docker ]()**  : Docker
+- **[$docker history](https://docs.docker.com/engine/reference/commandline/history/)**  : Show the history of an image
 - **[$docker ]()**  : Docker
 - **[$docker ]()**  : Docker
 - **[$docker ]()**  : Docker
