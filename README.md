@@ -20,7 +20,7 @@
 - **[$docker history](https://docs.docker.com/engine/reference/commandline/history/)**  : Show the history of an image
 - **[$docker images](https://docs.docker.com/engine/reference/commandline/images/)**  : List docker images
 - **[$docker logs](https://docs.docker.com/engine/reference/commandline/logs/)**  : Fetch the logs of a container
-- **[$docker ]()**  : Docker
+- **[$docker exec](https://docs.docker.com/engine/reference/commandline/exec/)**  : Run a command in a running container
 - **[$docker ]()**  : Docker
 - **[$docker ]()**  : Docker
 - **[$docker ]()**  : Docker
