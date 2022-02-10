@@ -21,7 +21,8 @@
 - **[$docker images](https://docs.docker.com/engine/reference/commandline/images/)**  : List docker images
 - **[$docker logs](https://docs.docker.com/engine/reference/commandline/logs/)**  : Fetch the logs of a container
 - **[$docker exec](https://docs.docker.com/engine/reference/commandline/exec/)**  : Run a command in a running container
-- **[$docker ]()**  : Docker
+- **[$docker network](https://docs.docker.com/engine/reference/commandline/network/)**  : Manage networks
+- **[$docker network create](https://docs.docker.com/engine/reference/commandline/network_create/)**  : Create a network
 - **[$docker ]()**  : Docker
 - **[$docker ]()**  : Docker
 - **[$docker ]()**  : Docker
