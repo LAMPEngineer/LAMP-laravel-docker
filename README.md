@@ -14,7 +14,8 @@
  3. Run docker compose up and the Docker compose command starts and runs your entire app. We can alternatively run docker-compose up using the docker-compose binary.
 
 
-# Docker commands
+# **[Docker commands](https://docs.docker.com/engine/reference/commandline/docker/)** 
+
 - **[$docker pull](https://docs.docker.com/engine/reference/commandline/pull/)** : Pulls images from the repository to local environment
 - **[$docker run](https://docs.docker.com/engine/reference/run/)**  : Docker runs processes in isolated containers.  
 - **[$docker run -d](https://docs.docker.com/engine/reference/run/)**  : (--detach) Run container in background and print container ID 
