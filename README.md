@@ -9,9 +9,9 @@
 
 # **[Docker Compose](https://docs.docker.com/compose/)**
 Using Compose is a three-step process:
- 1. Define app’s environment with a Dockerfile so it can be reproduced anywhere.
- 2. Define the services that make up app in docker-compose.yml so they can be run together in an isolated environment.
- 3. Run docker compose up and the Docker compose command starts and runs entire app. We can alternatively run docker-compose up using the docker-compose binary.
+ 1. Define app’s environment with a **[Dockerfile](https://docs.docker.com/engine/reference/builder/)** so it can be reproduced anywhere.
+ 2. Define the services that make up app in **[docker-compose.yml](https://docs.docker.com/compose/compose-file/)** so they can be run together in an isolated environment.
+ 3. Run **[docker compose up](https://docs.docker.com/compose/reference/up/)** and the Docker compose command starts and runs entire app. We can alternatively run docker-compose up using the docker-compose binary.
 
 
 # **[Docker commands](https://docs.docker.com/engine/reference/commandline/docker/)** 
@@ -38,3 +38,4 @@ Using Compose is a three-step process:
 - **[$docker ]()**  : Docker
 - **[$docker ]()**  : Docker
 - **[$docker ]()**  : Docker
+- **[]()** 
