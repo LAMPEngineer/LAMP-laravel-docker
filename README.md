@@ -7,6 +7,13 @@
 - MongoDB 5.0
 - Mongo-Express
 
+# **[Docker Compose](https://docs.docker.com/compose/)**
+- Using Compose is a three-step process:
+ -- Define app’s environment with a Dockerfile so it can be reproduced anywhere.
+ -- Define the services that make up app in docker-compose.yml so they can be run together in an isolated environment.
+ -- Run docker compose up and the Docker compose command starts and runs your entire app. We can alternatively run docker-compose up using the docker-compose binary.
+
+
 # Docker commands
 - **[$docker pull](https://docs.docker.com/engine/reference/commandline/pull/)** : Pulls images from the repository to local environment
 - **[$docker run](https://docs.docker.com/engine/reference/run/)**  : Docker runs processes in isolated containers.  
