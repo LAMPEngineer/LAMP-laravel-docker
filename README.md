@@ -23,6 +23,7 @@ Using Compose is a three-step process:
 - **[$docker start](https://docs.docker.com/engine/reference/commandline/start/)**  : Start one or more stopped containers
 - **[$docker stop](https://docs.docker.com/engine/reference/commandline/stop/)**  : Stop one or more running containers
 - **[$docker restart](https://docs.docker.com/engine/reference/commandline/restart/)**  : Restart one or more containers 
+- **[docker-compose ps](https://docs.docker.com/compose/reference/ps/)** : Lists containers
 - **[$docker ps](https://docs.docker.com/engine/reference/commandline/ps/)**  : List all running containers
 - **[$docker ps -a](https://docs.docker.com/engine/reference/commandline/ps/)**  :(--all) Show both running and stopped containers
 - **[$docker ps -s](https://docs.docker.com/engine/reference/commandline/ps/)**  :(--size) Show disk usage by container
