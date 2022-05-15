@@ -16,6 +16,8 @@ Using Compose is a three-step process:
 
 # **[Docker commands](https://docs.docker.com/engine/reference/commandline/docker/)** 
 
+- **[$docker ps -a](https://docs.docker.com/engine/reference/commandline/ps/)**  :(--all) Show both running and stopped containers
+- **[docker-compose ps](https://docs.docker.com/compose/reference/ps/)** : Lists containers
 - **[$docker pull](https://docs.docker.com/engine/reference/commandline/pull/)** : Pulls images from the repository to local environment
 - **[$docker run](https://docs.docker.com/engine/reference/run/)**  : Docker runs processes in isolated containers.  
 - **[$docker run -d](https://docs.docker.com/engine/reference/run/)**  : (--detach) Run container in background and print container ID 
@@ -23,9 +25,7 @@ Using Compose is a three-step process:
 - **[$docker start](https://docs.docker.com/engine/reference/commandline/start/)**  : Start one or more stopped containers
 - **[$docker stop](https://docs.docker.com/engine/reference/commandline/stop/)**  : Stop one or more running containers
 - **[$docker restart](https://docs.docker.com/engine/reference/commandline/restart/)**  : Restart one or more containers 
-- **[docker-compose ps](https://docs.docker.com/compose/reference/ps/)** : Lists containers
 - **[$docker ps](https://docs.docker.com/engine/reference/commandline/ps/)**  : List all running containers
-- **[$docker ps -a](https://docs.docker.com/engine/reference/commandline/ps/)**  :(--all) Show both running and stopped containers
 - **[$docker ps -s](https://docs.docker.com/engine/reference/commandline/ps/)**  :(--size) Show disk usage by container
 - **[$docker history](https://docs.docker.com/engine/reference/commandline/history/)**  : Show the history of an image
 - **[$docker images](https://docs.docker.com/engine/reference/commandline/images/)**  : List docker images
