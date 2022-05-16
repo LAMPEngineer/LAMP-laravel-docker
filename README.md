@@ -1,4 +1,5 @@
 # LAMP-laravel-docker
+- Docker 20.10.12
 - Apache 2.0
 - PHP 8.1.2
 - MySQL 8.0.27
