@@ -1,4 +1,5 @@
 # LAMP-laravel-docker
+- Ubuntu 20.04
 - Docker 20.10.12
 - Apache 2.0
 - PHP 8.1.2
