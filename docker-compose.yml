@@ -1,6 +1,26 @@
 # docker-compose.yml
 version: "3.3"  # optional since v1.27.0
 services:
+  project1:
+    build:
+      context: src/project1 #automatically finds Dockerfile
+    container_name: project1
+    ports:
+      - 9091:91
+    volumes:
+      - .:/src/project
+    links:
+      - mysql
+  project2:
+    build:
+      context: src/project2 #automatically finds Dockerfile
+    container_name: project2
+    ports:
+      - 9092:92
+    volumes:
+      - .:/src/project
+    links:
+      - mysql
   apache:
     container_name: apache
     build: ./docker/apache2
