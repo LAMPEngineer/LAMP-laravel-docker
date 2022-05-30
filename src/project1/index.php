@@ -1,3 +1,3 @@
-# src/pr1/index.php
+# src/project1/index.php
 <?php
-echo "<br />pr11111";
+echo "<br />project1";
