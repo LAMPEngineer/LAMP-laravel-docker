@@ -7,7 +7,9 @@ use App\Config;
 use App\Controllers\HomeController;
 use App\Router;
 
-require_once __DIR__ . '/../vendor/autoload.php';
+//echo __DIR__; die();
+
+require_once __DIR__ . './../vendor/autoload.php';
 
 $dotenv = Dotenv\Dotenv::createImmutable(dirname(__DIR__));
 $dotenv->load();
