@@ -41,7 +41,7 @@ Using Compose is a three-step process:
 
 # SSH to Docker
 - Go to docker dir
-- Run - sudo docker -ps [Find the container name]
+- Run - sudo docker ps -a [Find the container name]
 - Run - sudo docker exec -it container_name bash
 - Now we are inside the container - root@54278f6cb8dd:/var/www#
 - Run composer - root@54278f6cb8dd:/var/www# composer
