@@ -5,7 +5,7 @@
 - PHP 8.1.2
 - MySQL 8.0.27
 - PhpMyAdmin
-- Laravel 8
+- Laravel 9
 - MongoDB 5.0
 - Mongo-Express
 
