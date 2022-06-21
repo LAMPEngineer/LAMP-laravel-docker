@@ -3,9 +3,9 @@
 - Docker 20.10.12
 - Apache 2.0
 - PHP 8.1.2
+- Laravel 9.11
 - MySQL 8.0.27
 - PhpMyAdmin
-- Laravel 9
 - MongoDB 5.0
 - Mongo-Express
 
@@ -19,7 +19,7 @@ Using Compose is a three-step process:
 # **[Docker commands](https://docs.docker.com/engine/reference/commandline/docker/)** 
 
 - **[$docker ps -a](https://docs.docker.com/engine/reference/commandline/ps/)**  :(--all) Show both running and stopped containers
-- **[docker-compose ps](https://docs.docker.com/compose/reference/ps/)** : Lists containers
+- **[$docker-compose ps](https://docs.docker.com/compose/reference/ps/)** : Lists containers
 - **[$docker pull](https://docs.docker.com/engine/reference/commandline/pull/)** : Pulls images from the repository to local environment
 - **[$docker run](https://docs.docker.com/engine/reference/run/)**  : Docker runs processes in isolated containers.  
 - **[$docker run -d](https://docs.docker.com/engine/reference/run/)**  : (--detach) Run container in background and print container ID 
