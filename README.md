@@ -43,8 +43,13 @@ Using Compose is a three-step process:
 # Docker basic operations
 - $ sudo service docker status/restart : [To check status & restart docker]  
 - $ docker-compose up                  : [To start and restart all the services defined in docker-compose.yml]
+- $ docker-compose up -d               : [To start container in background]
+- $ sudo docker ps                     : [To see current running containers]
+
+- Now we could run http://localhost:8001/
+
 - $ docker-compose start               : [To restart containers stopped previously]
-- $ docker-compose stop                : [To stop running containers but won’t remove them]
+- $ docker-compose stop   or `ctrl+c`  : [To stop running containers but won’t remove them]
 - $ docker-compose down -v             : [To stop running containers, it also removes the stopped containers as well as any networks that were created and add the -v flag to remove all volumes too]
 
 
