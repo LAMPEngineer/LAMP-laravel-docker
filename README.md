@@ -8,6 +8,7 @@
 - PhpMyAdmin
 - MongoDB 5.0
 - Mongo-Express
+- PHPUnit 9.5.24
 
 # **[Docker Compose](https://docs.docker.com/compose/)**
 Using Compose is a three-step process:
