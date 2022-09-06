@@ -68,3 +68,10 @@ Composer 2.3.1 2022-03-30 15:41:28
 
 
 
+# **[Commit composer.lock file to version control](https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control)**
+- It's important because it will cause anyone who sets up the project to use the exact same versions of the dependencies that we are using.
+- Command to install from composer.lock file - `php composer.phar install`
+
+# **[Installing dependencies](https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies)**
+- To initially install the defined dependencies for our project, we should run the update command. `php composer.phar update`
+
